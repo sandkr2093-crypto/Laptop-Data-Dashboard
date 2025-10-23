@@ -48,6 +48,16 @@ RAM vs Price by Device Type – Analyze how RAM size affects price across device
 Total Device Value by Storage Type (Pie Chart) – Breakdown by SSD, NVMe, HDD, Hybrid.
 
 Top 5 Most Expensive Devices – Highlights premium models with maximum price tags.
+## Key Insights:
+Apple leads in both CPU tier and average price, reflecting its premium positioning.
+
+NVMe storage contributes the most to total value (≈45%), indicating user preference for faster drives.
+
+Higher RAM (≥128GB) devices are mostly Desktops, priced significantly higher.
+
+Samsung models dominate the Top 5 Most Expensive Devices, showing its strong presence in the premium segment.
+
+Despite similar average prices across brands (≈1.8K–2.4K), Apple’s performance metrics outperform others.
 
 
 
