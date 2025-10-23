@@ -36,6 +36,18 @@ Operating System (ChromeOS / Linux / Windows)
 🎮 Highest GPU Tier: 6
 
 🔢 Total Devices Count: 100K
+## Visual Insights:
+Average Price by Brand – Compare pricing trends among top brands.
+
+Average CPU Tier by Brand – Shows brand performance hierarchy.
+
+GPU Tier vs Price – Correlation between GPU capability and device price.
+
+RAM vs Price by Device Type – Analyze how RAM size affects price across devices.
+
+Total Device Value by Storage Type (Pie Chart) – Breakdown by SSD, NVMe, HDD, Hybrid.
+
+Top 5 Most Expensive Devices – Highlights premium models with maximum price tags.
 
 
 
