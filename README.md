@@ -72,6 +72,27 @@ Brands Covered: Apple, Acer, ASUS, Dell, HP, Lenovo, MSI, Samsung, and others
 Time Period: 2018–2024 (Release Years)
 
 File Format: CSV (Laptop_Data_Price_Dataset.csv)
+## Key Columns and Descriptions
+Column Name	Description
+device_type	Indicates whether the device is a Laptop or Desktop
+brand	Manufacturer or brand of the device (e.g., Apple, ASUS, HP)
+model	Specific product model name or series
+release_year	Year of device release
+cpu_brand	CPU manufacturer (Intel, AMD, Apple, etc.)
+cpu_tier	Processor performance level, rated numerically
+gpu_tier	Graphics processing unit tier (1–6)
+ram_gb	Total RAM capacity in gigabytes
+storage_type	Storage type (SSD, NVMe, HDD, Hybrid)
+storage_gb	Total storage capacity in gigabytes
+display_size_in	Screen size in inches
+resolution	Display resolution (e.g., 1920x1080)
+battery_wh	Battery capacity (in watt-hours)
+price	Selling price of the device
+os	Operating system installed (Windows, Linux, ChromeOS, etc.)
+wifi	Wi-Fi version supported
+bluetooth	Bluetooth version supported
+weight_kg	Device weight in kilograms
+warranty_months	Duration of manufacturer warranty in months
 
 
 
