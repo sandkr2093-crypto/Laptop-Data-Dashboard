@@ -12,6 +12,19 @@ Enable users to compare devices efficiently by filtering across various attribut
 
 Support decision-making for buyers, sellers, and analysts by visualizing the relationships between technical specifications and market value.
 ## Key Features
+KPIs Summary (Top Cards):
+
+🔺 Highest Price: ₹10.98K
+
+💰 Average Price: ₹1.93K
+
+🧠 Average RAM: 39.71 GB
+
+💾 Total Storage: 90M GB
+
+🎮 Highest GPU Tier: 6
+
+🔢 Total Devices Count: 100K
 
 
 
