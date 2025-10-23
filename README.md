@@ -61,6 +61,17 @@ Higher RAM (≥128GB) devices are mostly Desktops, priced significantly higher.
 Samsung models dominate the Top 5 Most Expensive Devices, showing its strong presence in the premium segment.
 
 Despite similar average prices across brands (≈1.8K–2.4K), Apple’s performance metrics outperform others.
+## Dataset Overview
+
+Total Records: 100,000 devices
+
+Device Types: Laptop, Desktop
+
+Brands Covered: Apple, Acer, ASUS, Dell, HP, Lenovo, MSI, Samsung, and others
+
+Time Period: 2018–2024 (Release Years)
+
+File Format: CSV (Laptop_Data_Price_Dataset.csv)
 
 
 
