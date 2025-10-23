@@ -11,3 +11,5 @@ Help identify premium brands and models based on pricing and performance indicat
 Enable users to compare devices efficiently by filtering across various attributes such as brand, device type, release year, and operating system.
 
 Support decision-making for buyers, sellers, and analysts by visualizing the relationships between technical specifications and market value.
+## Key Features
+
