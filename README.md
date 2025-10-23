@@ -17,6 +17,17 @@ KPIs Summary (Top Cards):
 🔺 Highest Price: ₹10.98K
 
 💰 Average Price: ₹1.93K
+## Interactive Filter:
+Device Type (Desktop / Laptop)
+
+Brand (Apple, Acer, ASUS, etc.)
+
+Release Year
+
+CPU Brand (AMD / Intel / Apple)
+
+Operating System (ChromeOS / Linux / Windows)
+
 
 🧠 Average RAM: 39.71 GB
 
