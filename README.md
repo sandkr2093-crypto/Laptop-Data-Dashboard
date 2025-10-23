@@ -21,6 +21,9 @@ KPIs Summary (Top Cards):
 Device Type (Desktop / Laptop)
 
 Brand (Apple, Acer, ASUS, etc.)
+## Dataset Description
+
+The Laptop Data Price Dataset contains detailed specifications and pricing information for a wide range of laptops and desktops. It is designed to help analyze how different hardware components, brands, and specifications impact the overall market price and performance of computing devices.
 
 Release Year
 
